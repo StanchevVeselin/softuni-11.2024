@@ -15,6 +15,10 @@ function softuni_plugin_enqueue_assets()
 add_action('wp_enqueue_scripts', 'softuni_plugin_enqueue_assets');
 
 
+/**
+ * This is dynamic function that handles AJAX upvote
+ */
+
 function softuni_service_upvote() {
    $id = esc_attr($_POST['id']);
    var_dump($_POST);
@@ -33,8 +37,7 @@ add_action('wp_ajax_softuni_service_upvote', 'softuni_service_upvote');
  * This is the call back function to display a service title with SHORTCODE
  */
 
-function display_service_title($atts)
-{
+function display_service_title($atts){
 
 
    $atts = shortcode_atts(array(

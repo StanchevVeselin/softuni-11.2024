@@ -33,3 +33,12 @@
 [24-Nov-2024 14:36:54 UTC]   Automatic plugin updates starting...
 [24-Nov-2024 14:36:54 UTC]   Automatic plugin updates complete.
 [24-Nov-2024 14:36:55 UTC] Automatic updates complete.
+[25-Nov-2024 15:00:04 UTC] Automatic updates starting...
+[25-Nov-2024 15:00:05 UTC]   Automatic plugin updates starting...
+[25-Nov-2024 15:00:05 UTC]   Automatic plugin updates complete.
+[25-Nov-2024 15:00:05 UTC] Automatic updates complete.
+[25-Nov-2024 15:19:05 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[25-Nov-2024 15:19:06 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[25-Nov-2024 15:19:06 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[25-Nov-2024 15:19:06 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[25-Nov-2024 15:19:07 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
