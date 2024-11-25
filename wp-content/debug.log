@@ -1,0 +1,35 @@
+[20-Nov-2024 18:09:28 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\cpt-therapists.php on line 79
+[20-Nov-2024 18:09:30 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\cpt-therapists.php on line 79
+[20-Nov-2024 18:32:59 UTC] PHP Parse error:  syntax error, unexpected identifier "shortcode" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 14
+[20-Nov-2024 18:39:03 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 22
+[20-Nov-2024 18:44:14 UTC] PHP Parse error:  syntax error, unexpected token "}" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 30
+[20-Nov-2024 19:51:02 UTC] PHP Parse error:  syntax error, unexpected variable "$upvote_number" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 21
+[20-Nov-2024 20:10:18 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:10:19 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:10:29 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:08 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:10 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:10 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:10 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:10 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:11 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:12 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:11:14 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:42 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:51 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:52 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:52 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[20-Nov-2024 20:13:53 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[21-Nov-2024 19:48:27 UTC] Automatic updates starting...
+[21-Nov-2024 19:48:28 UTC]   Automatic plugin updates starting...
+[21-Nov-2024 19:48:28 UTC]   Automatic plugin updates complete.
+[21-Nov-2024 19:48:28 UTC] Automatic updates complete.
+[24-Nov-2024 14:36:53 UTC] Automatic updates starting...
+[24-Nov-2024 14:36:54 UTC]   Automatic plugin updates starting...
+[24-Nov-2024 14:36:54 UTC]   Automatic plugin updates complete.
+[24-Nov-2024 14:36:55 UTC] Automatic updates complete.
