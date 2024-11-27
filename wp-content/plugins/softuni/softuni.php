@@ -16,3 +16,4 @@ if(! defined("SOFTUNI_PLUGIN_ASSETS_URL")) {
  require "includes/cpt-services.php";
  require "includes/cpt-therapists.php";
  require "includes/functions.php";
+ require "includes/options.php";

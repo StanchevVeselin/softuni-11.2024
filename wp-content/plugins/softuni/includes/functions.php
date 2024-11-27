@@ -71,5 +71,20 @@ function display_service_title($atts){
 add_shortcode('display_service_title', 'display_service_title');
 
 
+/**
+ * Custom function
+ */
+
+//  function softuni_theme_category() {
+//    $options = get_option("custom_options");
+
+//    if( ! is_admin() && $query->is_main_query() && is_category()) {
+//       $query->set('post_per_page', 1);
+//    }
+//  }
+
+//  add_action('pre_get_posts', 'softuni_theme_category');
+
+
 
 

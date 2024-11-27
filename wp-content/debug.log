@@ -73,3 +73,5 @@
 [27-Nov-2024 17:07:02 UTC]   Automatic plugin updates starting...
 [27-Nov-2024 17:07:02 UTC]   Automatic plugin updates complete.
 [27-Nov-2024 17:07:03 UTC] Automatic updates complete.
+[27-Nov-2024 18:49:25 UTC] PHP Parse error:  syntax error, unexpected token "&" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 81
+[27-Nov-2024 18:55:28 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 91
