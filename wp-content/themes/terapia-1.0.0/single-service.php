@@ -2,7 +2,11 @@
 
     <?php get_header(); ?>
 
-    <?php $service_address = get_post_meta(get_the_ID(), 'service_address', true); ?>
+    <?php 
+        $service_address = get_post_meta(get_the_ID(), 'service_address', true); 
+        $service_like = get_post_meta(get_the_ID(), 'votes', true); 
+        var_dump($service_like);
+    ?>
     
     serviceassssssss
 
@@ -32,7 +36,7 @@
                                 <a href="<?php the_permalink(); ?>" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 
                                 <div class="service-content-inner">
-                                    <a href="#" class="like" id="service-<?php echo get_the_ID()?>" data-id="<?php echo get_the_ID();?>">LIKE</a>
+                                    <a href="#" class="like" id="service-<?php echo get_the_ID()?>" data-id="<?php echo get_the_ID();?>">LIKE <?php echo $service_like ?></a>
                                 </div>
                             
                             </div>

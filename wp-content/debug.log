@@ -42,3 +42,34 @@
 [25-Nov-2024 15:19:06 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
 [25-Nov-2024 15:19:06 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
 [25-Nov-2024 15:19:07 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 19
+[25-Nov-2024 15:28:01 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:28:02 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:28:02 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:32 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:33 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:33 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:35 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:35 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:36 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:47 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:47 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:30:47 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:33:34 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:33:35 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 15:33:35 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[25-Nov-2024 16:29:38 UTC] Automatic updates starting...
+[25-Nov-2024 16:29:38 UTC]   Automatic plugin updates starting...
+[25-Nov-2024 16:29:38 UTC]   Automatic plugin updates complete.
+[25-Nov-2024 16:29:38 UTC] Automatic updates complete.
+[25-Nov-2024 23:31:14 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[26-Nov-2024 07:32:49 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[26-Nov-2024 07:32:49 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[26-Nov-2024 07:32:49 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[27-Nov-2024 09:08:27 UTC] Automatic updates starting...
+[27-Nov-2024 09:08:28 UTC]   Automatic plugin updates starting...
+[27-Nov-2024 09:08:28 UTC]   Automatic plugin updates complete.
+[27-Nov-2024 09:08:29 UTC] Automatic updates complete.
+[27-Nov-2024 17:07:02 UTC] Automatic updates starting...
+[27-Nov-2024 17:07:02 UTC]   Automatic plugin updates starting...
+[27-Nov-2024 17:07:02 UTC]   Automatic plugin updates complete.
+[27-Nov-2024 17:07:03 UTC] Automatic updates complete.

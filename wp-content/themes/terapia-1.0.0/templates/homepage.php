@@ -4,6 +4,10 @@
  */
 ?>
 
+<?php 
+    $about_us_fields= get_fields(get_the_ID());
+?>
+
 <?php get_header(); ?>
 
 

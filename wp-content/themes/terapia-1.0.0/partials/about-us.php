@@ -1,3 +1,7 @@
+
+<?php 
+    var_dump($args)
+?>
 <div class="container-fluid about bg-light py-5">
             <div class="container py-5">
                 <div class="row g-5 align-items-center">
@@ -12,7 +16,9 @@
                     </div>
                     <div class="col-lg-7 wow fadeInRight" data-wow-delay="0.4s">
                         <div class="section-title text-start mb-5">
-                            <h4 class="sub-title pe-3 mb-0">About Us</h4>
+                            <?php if(!empty($args['title'])) : ?>
+                                <h4 class="sub-title pe-3 mb-0"><?php echo $args['title']; ?></h4>
+                            <?php endif;?>
                             <h1 class="display-3 mb-4">We are Ready to Help Improve Your Treatment.</h1>
                             <p class="mb-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
                             <div class="mb-4">

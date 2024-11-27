@@ -4,7 +4,7 @@ add_theme_support("post-thumbnails");
 add_theme_support("title-tag");
 add_post_type_support("excerpt", array());
 
-add_action("wp_enqueue_scrpits", "softuni_enqueue_assets");
+add_action("wp_enqueue_scripts", "softuni_enqueue_assets");
 
 function softuni_enqueue_assets() {
     wp_enqueue_style('softuni-main-style', get_stylesheet_directory_uri() . '/style.css', array(), '1.0.0');
