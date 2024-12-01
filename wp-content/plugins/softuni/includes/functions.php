@@ -73,6 +73,8 @@ add_shortcode('display_service_title', 'display_service_title');
 
 /**
  * Custom function
+ * Custom function
+ * Custom function
  */
 
 //  function softuni_theme_category() {
