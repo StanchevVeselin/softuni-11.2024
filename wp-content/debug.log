@@ -75,3 +75,16 @@
 [27-Nov-2024 17:07:03 UTC] Automatic updates complete.
 [27-Nov-2024 18:49:25 UTC] PHP Parse error:  syntax error, unexpected token "&" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 81
 [27-Nov-2024 18:55:28 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 91
+[06-Dec-2024 09:45:05 UTC] Automatic updates starting...
+[06-Dec-2024 09:45:07 UTC]   Automatic plugin updates starting...
+[06-Dec-2024 09:45:07 UTC]   Automatic plugin updates complete.
+[06-Dec-2024 09:45:07 UTC] Automatic updates complete.
+[07-Dec-2024 11:09:37 UTC] Automatic updates starting...
+[07-Dec-2024 11:09:37 UTC]   Automatic plugin updates starting...
+[07-Dec-2024 11:09:37 UTC]   Automatic plugin updates complete.
+[07-Dec-2024 11:09:39 UTC] Automatic updates complete.
+[07-Dec-2024 11:13:16 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[07-Dec-2024 11:13:17 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
