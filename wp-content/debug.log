@@ -88,3 +88,58 @@
 [07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
 [07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
 [07-Dec-2024 11:13:22 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[07-Dec-2024 16:49:02 UTC] Automatic updates starting...
+[07-Dec-2024 16:49:03 UTC]   Automatic plugin updates starting...
+[07-Dec-2024 16:49:03 UTC]   Automatic plugin updates complete.
+[07-Dec-2024 16:49:04 UTC] Automatic updates complete.
+[07-Dec-2024 17:42:06 UTC] PHP Fatal error:  Uncaught ArgumentCountError: define() expects at least 2 arguments, 0 given in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php:3
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php(3): define()
+#1 C:\xampp\htdocs\softuni\wp-settings.php(672): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\softuni\wp-config.php(98): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\softuni\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\softuni\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 3
+[07-Dec-2024 17:42:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\softuni\wp-includes\class-wp-recovery-mode-email-service.php on line 367
+[07-Dec-2024 17:42:06 UTC] PHP Warning:  Trying to access array offset on value of type bool in C:\xampp\htdocs\softuni\wp-includes\class-wp-recovery-mode-email-service.php on line 368
+[07-Dec-2024 17:43:43 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php:4
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php(4): defined('Terapia', '1.0.0')
+#1 C:\xampp\htdocs\softuni\wp-settings.php(672): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\softuni\wp-config.php(98): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\softuni\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\softuni\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\softuni\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 4
+[07-Dec-2024 17:43:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php:4
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php(4): defined('Terapia_VER', '1.0.0')
+#1 C:\xampp\htdocs\softuni\wp-settings.php(672): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\softuni\wp-config.php(98): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\softuni\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\softuni\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\softuni\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 4
+[07-Dec-2024 17:43:58 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php:4
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php(4): defined('Terapia_VER', '1.0.0')
+#1 C:\xampp\htdocs\softuni\wp-settings.php(672): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\softuni\wp-config.php(98): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\softuni\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\softuni\wp-blog-header.php(13): require_once('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\softuni\index.php(17): require('C:\\xampp\\htdocs...')
+#6 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 4
+[07-Dec-2024 17:44:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: defined() expects exactly 1 argument, 2 given in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php:4
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php(4): defined('Terapia_VER', '1.0.0')
+#1 C:\xampp\htdocs\softuni\wp-settings.php(672): include('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\softuni\wp-config.php(98): require_once('C:\\xampp\\htdocs...')
+#3 C:\xampp\htdocs\softuni\wp-load.php(50): require_once('C:\\xampp\\htdocs...')
+#4 C:\xampp\htdocs\softuni\wp-admin\admin-ajax.php(22): require_once('C:\\xampp\\htdocs...')
+#5 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 4
+[07-Dec-2024 18:02:16 UTC] PHP Parse error:  syntax error, unexpected token "<" in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\functions.php on line 15

@@ -1,13 +1,31 @@
 <?php
 
-add_theme_support("post-thumbnails");
+if(! defined('Terapia_VER')) {
+    define('Terapia_VER', '1.0.0');
+}
+
 add_theme_support("title-tag");
+add_theme_support("post-thumbnails");
 add_post_type_support("excerpt", array());
 
 add_action("wp_enqueue_scripts", "softuni_enqueue_assets");
 
 function softuni_enqueue_assets() {
-    wp_enqueue_style('softuni-main-style', get_stylesheet_directory_uri() . '/style.css', array(), '1.0.0');
+
+
+    // Libraries Stylesheet 
+    wp_enqueue_style('lib', get_stylesheet_directory_uri() . '/lib/animate/animate.min.css', array(), Terapia_VER);
+    wp_enqueue_style('lib', get_stylesheet_directory_uri() . '/lib/owlcarousel/assets/owl.carousel.min.css', array(), Terapia_VER);
+
+    //Bootstrap
+    wp_enqueue_style('bootstrap', get_stylesheet_directory_uri() . '/css/bootstrap.min.css', array(), Terapia_VER);
+
+    // Load styles
+    wp_enqueue_style('softuni-main-style', get_stylesheet_directory_uri() . '/style.css', array(), Terapia_VER);
+
+     // Load JS
+    wp_enqueue_style('plugins-js', get_stylesheet_directory_uri() . '/js/plugins.js', array('jquery'), Terapia_VER, array('in_footer' => true));
+    wp_enqueue_style('script', get_stylesheet_directory_uri() . '/js/script.js', array('jquery'), Terapia_VER, array('in_footer' => true));
 }
 
 function softuni_display_latest_posts($number_of_posts = 3) {

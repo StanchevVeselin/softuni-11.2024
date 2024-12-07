@@ -24,10 +24,9 @@
 
 
         <!-- Customized Bootstrap Stylesheet -->
-        <link href="<?php echo get_stylesheet_directory_uri(); ?>/css/bootstrap.min.css" rel="stylesheet">
 
         <!-- Template Stylesheet -->
-        <link href="<?php echo get_stylesheet_directory_uri(); ?>/style.css" rel="stylesheet">
+        
 
         <?php wp_head(); ?>
     </head>

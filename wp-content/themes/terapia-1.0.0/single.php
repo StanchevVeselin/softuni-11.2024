@@ -7,9 +7,6 @@
         $id = get_the_ID();
         $therapist_author = get_field('author', $id );
         $therapist_image = get_field('Author_image', $id );
-
-        var_dump($therapist_author);
-        var_dump($therapist_image);
     ?>
     
 
@@ -19,7 +16,7 @@
         <div class="container py-5">
             <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
                 <div class="sub-style">
-                    <h4 class="sub-title px-3 mb-0">Our Blog</h4>
+                    <h4 class="sub-title px-3 mb-0"><?php the_title(); ?></h4>
                 </div>
                 <h1 class="display-3 mb-4">Excellent Facility and High Quality Therapy</h1>
                 <p class="mb-0">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quaerat deleniti amet at atque sequi quibusdam cumque itaque repudiandae temporibus, eius nam mollitia voluptas maxime veniam necessitatibus saepe in ab? Repellat!</p>
