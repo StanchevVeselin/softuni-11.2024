@@ -40,6 +40,10 @@ function softuni_body_class() {
 
 add_action("body_class", "softuni_body_class");
 
+/**
+ * Register menus
+ */
+
 function softuni_register_nav_menus() {
     // register_nav_menus(
     //     array(

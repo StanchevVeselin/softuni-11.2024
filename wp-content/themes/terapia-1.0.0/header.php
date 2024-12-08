@@ -80,7 +80,7 @@
                         $nav_menu_args = array(
                                 'menu'				=> 'primary-menu', // (int|string|WP_Term) Desired menu. Accepts a menu ID, slug, name, or object.
 	                            'menu_class'		=> 'navbar-nav ms-auto py-0', // (string) CSS class to use for the ul element which forms the menu. Default 'menu'.
-	                            // 'menu_id'			=> '', // (string) The ID that is applied to the ul element which forms the menu. Default is the menu slug, incremented.
+	                            'menu_id'			=> 'menu-primary', // (string) The ID that is applied to the ul element which forms the menu. Default is the menu slug, incremented.
 	                            'container'			=> 'ul', // (string) Whether to wrap the ul, and what to wrap it with. Default 'div'.
 	                            'container_class'	=> 'container_class', // (string) Class that is applied to the container. Default 'menu-{menu slug}-container'.
 	                            // 'container_id'		=> '', // (string) The ID that is applied to the container.
@@ -96,10 +96,11 @@
 	                            // 'items_wrap'		=> '', // (string) How the list items should be wrapped. Default is a ul with an id and class. Uses printf() format with numbered placeholders.
 	                            // 'item_spacing'		=> '', // (string) Whether to preserve whitespace within the menu's HTML. Accepts 'preserve' or 'discard'. Default 'preserve'.
                         ) ;
-
-                        wp_nav_menu($nav_menu_args)
+                        if(has_nav_menu('primary'))  {
+                            wp_nav_menu($nav_menu_args);
+                        }  
                     ?>
-                    <div class="navbar-nav ms-auto py-0">
+                    <!-- <div class="navbar-nav ms-auto py-0">
                        <ul id="menu-primary" class="navbar-nav ms-auto py-0> 
                             <li class="nav-item"><a href="index.html" class="nav-item nav-link active">Home</a></li>
                             <li class="nav-item"><a href="about.html" class="nav-item nav-link">About</a></li>
@@ -117,7 +118,7 @@
                         </div>
                         <a href="contact.html" class="nav-item nav-link">Contact Us</a>
                         </ul> 
-                    </div>
+                    </div> -->
                     <a href="#" class="btn btn-primary rounded-pill text-white py-2 px-4 flex-wrap flex-sm-shrink-0">Book Appointment</a>
                 </div>
             </nav>
