@@ -8,7 +8,7 @@ function softuni_plugin_enqueue_assets()
    wp_enqueue_script('ajax-script', plugins_url(
       '../assets/scripts/script.js',
       __FILE__
-   ), array('jquery'), 1.0);
+   ), array('jquery'), 1.0, true);
    wp_localize_script('ajax-script', 'my_ajax_object', array('ajax_url'
    => admin_url('admin-ajax.php')));
 }

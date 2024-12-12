@@ -147,3 +147,48 @@ Stack trace:
 [08-Dec-2024 08:58:18 UTC]   Automatic plugin updates starting...
 [08-Dec-2024 08:58:18 UTC]   Automatic plugin updates complete.
 [08-Dec-2024 08:58:19 UTC] Automatic updates complete.
+[08-Dec-2024 10:43:27 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[08-Dec-2024 10:43:27 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[08-Dec-2024 10:43:28 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[08-Dec-2024 11:35:08 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\softuni\wp-includes\class-wp-dependencies.php on line 289
+[08-Dec-2024 11:35:34 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\softuni\wp-includes\query.php on line 421
+[08-Dec-2024 11:35:41 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\softuni\wp-includes\class-wp-dependencies.php on line 316
+[08-Dec-2024 11:36:44 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\softuni\wp-includes\class-wp-dependencies.php on line 293
+[08-Dec-2024 11:39:42 UTC] PHP Fatal error:  Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\softuni\wp-includes\class-wp-scripts.php on line 804
+[08-Dec-2024 12:21:16 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:11:11 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 53
+[10-Dec-2024 13:12:49 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 53
+[10-Dec-2024 13:12:59 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 53
+[10-Dec-2024 13:13:12 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 53
+[10-Dec-2024 13:23:15 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:23:17 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:27:36 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:27:37 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:29:58 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:30:01 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[10-Dec-2024 13:30:02 UTC] PHP Warning:  Undefined array key "id" in C:\xampp\htdocs\softuni\wp-content\plugins\softuni\includes\functions.php on line 23
+[12-Dec-2024 06:38:17 UTC] PHP Warning:  get_core_checksums(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:17 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:17 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:17 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:20 UTC] PHP Warning:  wp_version_check(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:20 UTC] PHP Warning:  wp_update_plugins(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 06:38:20 UTC] PHP Warning:  wp_update_themes(): An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in C:\xampp\htdocs\softuni\wp-includes\functions.php on line 6114
+[12-Dec-2024 14:32:32 UTC] PHP Parse error:  syntax error, unexpected end of file in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\partials\service.php on line 129
+[12-Dec-2024 14:59:29 UTC] PHP Warning:  Undefined variable $number_of_posts in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\partials\service.php on line 5
+[12-Dec-2024 14:59:29 UTC] PHP Warning:  Undefined variable $latest_posts__query in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\partials\service.php on line 24
+[12-Dec-2024 14:59:29 UTC] PHP Fatal error:  Uncaught Error: Call to a member function have_posts() on null in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\partials\service.php:24
+Stack trace:
+#0 C:\xampp\htdocs\softuni\wp-includes\template.php(812): require()
+#1 C:\xampp\htdocs\softuni\wp-includes\template.php(745): load_template('C:\\xampp\\htdocs...', false, Array)
+#2 C:\xampp\htdocs\softuni\wp-includes\general-template.php(206): locate_template(Array, true, false, Array)
+#3 C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\templates\homepage.php(23): get_template_part('partials/servic...')
+#4 C:\xampp\htdocs\softuni\wp-includes\template-loader.php(106): include('C:\\xampp\\htdocs...')
+#5 C:\xampp\htdocs\softuni\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#6 C:\xampp\htdocs\softuni\index.php(17): require('C:\\xampp\\htdocs...')
+#7 {main}
+  thrown in C:\xampp\htdocs\softuni\wp-content\themes\terapia-1.0.0\partials\service.php on line 24
+[12-Dec-2024 16:08:17 UTC] Automatic updates starting...
+[12-Dec-2024 16:08:18 UTC]   Automatic plugin updates starting...
+[12-Dec-2024 16:08:18 UTC]   Automatic plugin updates complete.
+[12-Dec-2024 16:08:19 UTC] Automatic updates complete.

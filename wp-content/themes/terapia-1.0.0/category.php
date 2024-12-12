@@ -4,7 +4,7 @@
     <div class="container py-5">
         <div class="section-title mb-5 wow fadeInUp" data-wow-delay="0.1s">
             <div class="sub-style">
-                <h4 class="sub-title px-3 mb-0">Our Blog</h4>
+                <h4 class="sub-title px-3 mb-0"><?php echo get_the_archive_title(); ?></h4>
             </div>
             <h1 class="display-3 mb-4">Blog Archive</h1>
             <p class="mb-0">Browse through our latest posts and updates.</p>

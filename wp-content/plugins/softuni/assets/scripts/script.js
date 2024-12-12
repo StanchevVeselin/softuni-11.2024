@@ -1,10 +1,12 @@
 // JavaScript file
+console.log("JS working");
+
 jQuery(document).ready(function ($) {
     $('.like').on('click', function (e) {
         e.preventDefault();
         console.log('clicked'); // just to be sure
         
-        let item_id = jQuery(this).attr('data-id'); // we'll need this later
+        let item_id = jQuery(this).attr('id'); // we'll need this later
 
         console.log(item_id);
         

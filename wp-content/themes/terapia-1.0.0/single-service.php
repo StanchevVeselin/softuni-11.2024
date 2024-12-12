@@ -3,13 +3,25 @@
     <?php get_header(); ?>
 
     <?php 
+        $service_id = get_the_ID(); 
         $service_address = get_post_meta(get_the_ID(), 'service_address', true); 
         $service_like = get_post_meta(get_the_ID(), 'votes', true); 
-        var_dump($service_like);
+        $service_fields = get_fields($service_id); 
+        if ($service_fields) {
+            echo '<pre>';
+            var_dump($service_fields);
+            echo '</pre>';
+        } else {
+            var_dump($service_fields);
+            echo 'Няма персонализирани полета за тази публикация.';
+        }
+        var_dump($service_id );
+        $post_type = get_post_type($service_id);
+        echo 'Тип на публикацията: ' . esc_html($post_type);
+        var_dump($service_address );
+        
     ?>
     
-    serviceassssssss
-
 <?php if(have_posts()) : ?>
     <!-- Blog Start -->
     <div class="container-fluid blog py-5">
@@ -36,11 +48,11 @@
                                 <a href="<?php the_permalink(); ?>" class="btn btn-primary rounded-pill text-white py-2 px-4 mb-2">Read More</a>
                                 
                                 <div class="service-content-inner">
-                                    <a href="#" class="like" id="service-<?php echo get_the_ID()?>" data-id="<?php echo get_the_ID();?>">LIKE <?php echo $service_like ?></a>
+                                    <a href="#" class="like" id="<?php $service_id ?>">LIKE <?php echo $service_like ?></a>
                                 </div>
                             
                             </div>
-                            <div class="service-content-inner">
+                            <div class="service_address">
                                 <?php 
                                     
                                     if(!empty($service_address)){
